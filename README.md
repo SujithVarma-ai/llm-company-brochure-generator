@@ -43,7 +43,7 @@ ollama pull llama3.2
 Run:
 
 ```bash
-python app.py
+python ollamacompanybrochure.py
 ```
 
 ## Example
