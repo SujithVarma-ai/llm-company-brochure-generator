@@ -45,6 +45,14 @@ Run:
 ```bash
 python ollamacompanybrochure.py
 ```
+## Screenshot
+
+![App Screenshot](https://github.com/SujithVarma-ai/llm-company-brochure-generator/blob/main/Screenshot%202026-05-26%20195820.png)
+![App Screenshot](https://github.com/SujithVarma-ai/llm-company-brochure-generator/blob/main/Screenshot%202026-05-26%20195933.png)
+![App Screenshot](https://github.com/SujithVarma-ai/llm-company-brochure-generator/blob/main/Screenshot%202026-05-26%20200153.png)
+![App Screenshot](https://github.com/SujithVarma-ai/llm-company-brochure-generator/blob/main/Screenshot%202026-05-26%20200240.png)
+![App Screenshot](https://github.com/SujithVarma-ai/llm-company-brochure-generator/blob/main/Screenshot%202026-05-26%20200317.png)
+
 
 ## Example
 
