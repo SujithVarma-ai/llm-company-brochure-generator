@@ -1,6 +1,6 @@
 # AI Company Brochure Generator
 
-An AI-powered Company Brochure Generator built using:
+An AI-powered Company Brochure Generator that analyzes company websites and automatically creates professional business brochures using local Large Language Models (LLMs) through Ollama.
 
 * Ollama
 * Llama 3.2
