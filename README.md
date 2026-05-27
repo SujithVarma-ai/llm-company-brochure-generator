@@ -1,4 +1,4 @@
-# AI Company Brochure Generator
+# LLM Company Brochure Generator
 
 An AI-powered Company Brochure Generator that analyzes company websites and automatically creates professional business brochures using local Large Language Models (LLMs) through Ollama.
 
@@ -43,7 +43,7 @@ ollama pull llama3.2
 Run:
 
 ```bash
-python ollamacompanybrochure.py
+python app.py
 ```
 ## Screenshot
 
