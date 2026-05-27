@@ -1,6 +1,5 @@
 import os
 import json
-from dotenv import load_dotenv
 from scraper import fetch_website_links, fetch_website_contents
 from openai import OpenAI
 from urllib.parse import urljoin, urlparse
